@@ -5,7 +5,7 @@ Your Trusted Tech Store in Kakamega Town, Kakamega County, Kenya.
 **Live Store:** `ayunda-tech-hub-general-store.vercel.app` (rename after deploy)  
 **M-Pesa Till:** `3034879`  
 **Phone:** `0796943289`  
-**Location:** KAKAMEGA ONLY
+**Location:** KAKAMEGA
 
 ## 🔗 My Other Projects Linked Inside Store
 
